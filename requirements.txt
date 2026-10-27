@@ -1,0 +1,11 @@
+# Office to PDF Converter — Python dependencies
+#
+# Core script has NO required third-party packages.
+# The two optional lines below enable extra features:
+
+# Windows only — enables the Microsoft Office COM engine (best quality)
+# Uncomment if you are on Windows WITH Microsoft Office installed:
+# pywin32>=306
+
+# Optional: colored terminal output
+# colorama>=0.4.6
